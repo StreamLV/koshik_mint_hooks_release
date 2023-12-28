@@ -1,0 +1,10 @@
+{
+    "PORT": 5838,
+    "TERMINAL_ID": "XXX89aa9-dbdf-4eb0-b7a2-094665c3fdd0",
+    "KSO_ADDRESS": "127.0.0.1",
+    "KSO_PORT": 11350,
+    "BACKEND_ADDRESS": "127.0.0.1",
+    "BACKEND_PATH": "kassa/hs/mint/terminal/webhook",
+    "BACKEND_PORT": 81,
+    "LOGGING": false
+}
